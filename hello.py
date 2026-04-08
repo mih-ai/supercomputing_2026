@@ -1,4 +1,4 @@
-for i in range(10):
+for i in range(1000):
     print("Hellurei!")
     print("....")
     print(i)
